@@ -1,0 +1,2 @@
+# Marriage-A-Qualitative-Study-on-Gen-Z-s-Point-of-View-
+The aim of this project is to study and understand the different expectations, experiences and perspectives of undergraduate students at a premier engineering institute on the question of roles for men and women in an arranged marriage and what factors they think influence these roles. Through this study, we will understand not only the desires of the participants but also what they think is expected of them by their parents and other family members.
